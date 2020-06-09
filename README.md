@@ -1,0 +1,2 @@
+# suckfish
+noob chess ai
